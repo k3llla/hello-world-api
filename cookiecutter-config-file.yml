@@ -1,0 +1,15 @@
+# This project was generated using a Cookiecutter template:
+#       https://github.com/notsatan/go-template
+
+cookiecutter_inputs:
+  project_name: "hello-world-api"
+  go_module_path: "github.com/k3llla/hello-world-api"
+  license_owner: "k3llla"
+  base_branch: "master"
+  contact_email: "admin@k3llla.ru"
+  project_description: "Easy http server"
+  github_specific_features: "y"
+  use_codecov: "y"
+  use_precommit: "y"
+  go_version: "1.18"
+  license: "GNU GPL v3.0"
